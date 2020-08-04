@@ -23,6 +23,10 @@ The walls and solid walls are simple. The singular walls are lines that cover pa
 
 The raycasts act as explained previously. Each cast is ejected at it's own angle and tries to find the first collision made with the aforementioned solid walls.
 
+## Video
+
+Click below to watch a YouTube video of the program in action!
+
 [![](http://img.youtube.com/vi/VYJg_PsuSOY/0.jpg)](http://www.youtube.com/watch?v=VYJg_PsuSOY "Raycasted Program Video")
 
 
